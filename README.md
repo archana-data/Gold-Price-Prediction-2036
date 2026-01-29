@@ -19,10 +19,12 @@ This project predicts the gold price in India for the year 2036 using Machine Le
 - ## 📊 Visual Results
 
 ### Gold Price Trend
-![Trend Graph](images/trend_graph.png)
+![Trend Graph](<img width="1665" height="705" alt="Screenshot 2026-01-29 060146" src="https://github.com/user-attachments/assets/bf9a8c54-055e-4234-b110-297967e4f753" />
+)
 
 ### Prediction Output
-![Prediction Output](images/prediction_output.png)
+![Prediction Output](<img width="1686" height="702" alt="Screenshot 2026-01-29 055705" src="https://github.com/user-attachments/assets/a169c461-b17f-467d-8f36-b4ca2d40b17b" />
+)
 
 
 ## Output
