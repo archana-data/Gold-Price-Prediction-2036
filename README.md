@@ -16,6 +16,15 @@ This project predicts the gold price in India for the year 2036 using Machine Le
 - Matplotlib
 - Scikit-learn
 
+- ## 📊 Visual Results
+
+### Gold Price Trend
+![Trend Graph](images/trend_graph.png)
+
+### Prediction Output
+![Prediction Output](images/prediction_output.png)
+
+
 ## Output
 - Predicted Gold Price (2036): ₹1,34,620 (Linear Regression)
 - Predicted Gold Price (2036): ₹3,40,084 (Polynomial Regression)
